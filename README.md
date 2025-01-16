@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 - **Weather CLI Tool**: A command-line tool to get weather updates.
 - **Expense Tracker**: A simple app to track daily expenses.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithgaji)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/streak.svg?username=codewithgaji)
 
 
 Feel free to explore my repositories and let me know if you'd like to collaborate! 🙌
