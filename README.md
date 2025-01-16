@@ -19,5 +19,6 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithgaji)
 
+
 Feel free to explore my repositories and let me know if you'd like to collaborate! 🙌
 
