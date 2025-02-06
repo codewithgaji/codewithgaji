@@ -10,8 +10,9 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 
 ## 🔧 Technologies I Use
 - **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Django, Flask
+- **Frameworks**: Django, Django Rest Framework
 - **Tools**: Git, Docker, VS Code, Jupyter
+- **Databases**: PostgreSql, Mysql, Sqlite3
 
 ## 📚 My Projects
 - **Weather CLI Tool**: A command-line tool to get weather updates.
