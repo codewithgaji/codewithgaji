@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Generative AI and Backend Development**
-- 🌱 I’m learning **PyTorch, Django, HTML, and CSS** in 2025
+- 🌱 I’m learning **Django, HTML, and CSS** in 2025
 - 💬 Ask me about **Python, Data Science, AI, and Web Development**
 - 📫 Reach me on [X](https://x.com/codewithgaji) (Formely Twitter)
 
@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 
 ## 📚 My Projects
 - **Weather CLI Tool**: A command-line tool to get weather updates.
-- **Expense Tracker**: A simple app to track daily expenses.
+- **Expense Tracker**: A simple command line app to track daily expenses.
 - **Numera**: A web app that converts word nuumbers to digits.
-- **Password Generator**: A command line tool to generate passwords.
+- **Keyamith**: A web app that helps generate passwords of different lengths.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithgaji)
 
