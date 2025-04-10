@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 ## 📚 My Projects
 - **Weather CLI Tool**: A command-line tool to get weather updates.
 - **Expense Tracker**: A simple command line app to track daily expenses.
-- **Numera**: A web app that converts word nuumbers to digits.
+- **[Numera](https://numera-egrx.onrender.com/)**: A web app that converts word nuumbers to digits.
 - **[Keysmith](https://keysmith.onrender.com/)**: A web app that helps generate passwords of different lengths.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithgaji)
