@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 - **Databases**: PostgreSql, Mysql, Sqlite3
 
 ## 📚 My Projects
-- **[Joke Feed](https://joke-feed-production.up.railway.app/)** A Hom of Laughter 😂 where you get to share jokes and Like or Dislike Jokes.
+- **[Joke Feed](https://joke-feed-production.up.railway.app/)** A Home of Laughter 😂 where you get to share jokes and Like or Dislike Jokes.
 - **[Skill Vault](https://skill-vault-api-production-f6fb.up.railway.app/)** A Web App that helps implement CRUD Operations in Django.
 - **[Keysmith](https://keysmith.onrender.com/)**: A web app that helps generate passwords of different lengths.
 - **[Youtube-Clone](https://lucky-gumption-ac20fd.netlify.app/)** A Youtube-Cloned Website with links to the videos.
