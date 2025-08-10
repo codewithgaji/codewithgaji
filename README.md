@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Generative AI and Backend Development**
-- 🌱 I’m learning **Django, HTML, and CSS** in 2025
+- 🌱 I’m learning **Django, HTML,CSS and JS** in 2025
 - 💬 Ask me about **Python, Data Science, AI, and Web Development**
 - 📫 Reach me on [X](https://x.com/codewithgaji) (Formely Twitter)
 
@@ -15,12 +15,13 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 - **Databases**: PostgreSql, Mysql, Sqlite3
 
 ## 📚 My Projects
+- **[Joke Feed](https://joke-feed-production.up.railway.app/)** A Hom of Laughter 😂 where you get to share jokes and Like or Dislike Jokes.
+- **[Skill Vault](https://skill-vault-api-production-f6fb.up.railway.app/)** A Web App that helps implement CRUD Operations in Django.
+- **[Keysmith](https://keysmith.onrender.com/)**: A web app that helps generate passwords of different lengths.
+- **[Youtube-Clone](https://lucky-gumption-ac20fd.netlify.app/)** A Youtube-Cloned Website with links to the videos.
 - **[Cardify API](https://cardify-api-by76.onrender.com/)**: An API for the web app Cardify.
 - **[Expense Tracker](https://colab.research.google.com/drive/1Be0zPCsN_xim_U2QtNHEshxA0TIFuEui?usp=sharing)**: A simple command line app to track daily expenses.
 - **[Numera](https://numera-egrx.onrender.com/)**: A web app that converts word nuumbers to digits.
-- **[Keysmith](https://keysmith.onrender.com/)**: A web app that helps generate passwords of different lengths.
-- **[Youtube-Clone](https://lucky-gumption-ac20fd.netlify.app/)** A Youtube-Cloned Website with links to the videos.
-- **[Skill Vault](https://skill-vault-api-production-f6fb.up.railway.app/)** A Web App that helps implement CRUD Operations in Django
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithgaji)
 
