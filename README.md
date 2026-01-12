@@ -3,15 +3,19 @@
 Welcome to my GitHub profile! I'm a passionate programmer with a focus on backend development, Generative AI, and Web Development.
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Generative AI and Backend Development**
-- 🌱 I’m learning **Django, HTML,CSS and JS** in 2025
-- 💬 Ask me about **Python, Data Science, AI, and Web Development**
+- 🔭 I’m currently working on **Devops Engineering and Backend Development**
+- 🌱 I’m learning **AWS, Docker, Terrarform, Ansible Django Rest Framework, GraphQL** in 2026
+- 💬 Ask me about **Devops, Python, Data Science, AI, and Web Development**
+- ⌚ My Portfolio: [codewithgaji](https://codewithgaji-74.vercel.app/)
 - 📫 Reach me on [X](https://x.com/codewithgaji) (Formely Twitter)
 
 ## 🔧 Technologies I Use
 - **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Django, Django Rest Framework
-- **Tools**: Git, Docker, VS Code, Jupyter
+- **Frameworks**: Django Rest Framework, FastAPI
+- **Tools**: Git, Docker, VS Code, Jupyter, Terraform
+- **Containerization Tool**: Docker, Kubernetes
+- **Automation Tool:** Ansible
+- **Cloud Platform:** AWS
 - **Databases**: PostgreSql, Mysql, Sqlite3
 
 ## 📚 My Projects
