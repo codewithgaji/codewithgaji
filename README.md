@@ -27,7 +27,8 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 - **[Expense Tracker](https://colab.research.google.com/drive/1Be0zPCsN_xim_U2QtNHEshxA0TIFuEui?usp=sharing)**: A simple command line app to track daily expenses.
 - **[Numera](https://numera-egrx.onrender.com/)**: A web app that converts word nuumbers to digits.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithgaji)
+![GitHub Streak](https://streak-stats.demolab.com?user=codewithgaji&theme=dark&hide_border=true)
+
 
 
 Feel free to explore my repositories and let me know if you'd like to collaborate! 🙌
