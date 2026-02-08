@@ -26,10 +26,25 @@ Welcome to my GitHub profile! I'm a passionate programmer with a focus on backen
 - **[Cardify API](https://cardify-api-by76.onrender.com/)**: An API for the web app Cardify.
 - **[Expense Tracker](https://colab.research.google.com/drive/1Be0zPCsN_xim_U2QtNHEshxA0TIFuEui?usp=sharing)**: A simple command line app to track daily expenses.
 - **[Numera](https://numera-egrx.onrender.com/)**: A web app that converts word nuumbers to digits.
+  
+<p align="center">
+  <img
+    src="https://github-readme-stats-88yc4y0c8-codewithgajis-projects.vercel.app/api?username=codewithgaji&amp;show_icons=true&amp;theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=codewithgaji&amp;theme=tokyonight"
+    height="170"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats-88yc4y0c8-codewithgajis-projects.vercel.app/api/top-langs/?username=codewithgaji&amp;layout=compact&amp;theme=tokyonight"
+    height="170"
+    width="400"
+  />
+</p>
 
-![GitHub Stats](https://github-readme-stats-88yc4y0c8-codewithgajis-projects.vercel.app/api?username=codewithgaji&show_icons=true&theme=tokyonight)
-![Github Streak](https://streak-stats.demolab.com?user=codewithgaji&theme=tokyonight)
-![Github Top_langs](https://github-readme-stats-88yc4y0c8-codewithgajis-projects.vercel.app/api/top-langs/?username=codewithgaji&layout=compact&theme=tokyonight)
 
 
 Feel free to explore my repositories and let me know if you'd like to collaborate! 🙌
