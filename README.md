@@ -1,5 +1,4 @@
 # Hi, I'm Gaji 👋
-
 Backend & Full-Stack Engineer building reliable systems with **FastAPI**, **Django**, and **PostgreSQL** - based in Lagos, Nigeria.
 
 I design and implement APIs from scratch: data modeling, business logic, endpoint architecture. I take full ownership of delivery end-to-end, and lean on AI-assisted tooling to ship frontends faster without compromising engineering quality.
@@ -7,7 +6,6 @@ I design and implement APIs from scratch: data modeling, business logic, endpoin
 ---
 
 ## 🔧 Stack
-
 **Languages:** Python, JavaScript, HTML, CSS  
 **Backend:** FastAPI, Django REST Framework  
 **Databases:** PostgreSQL, MySQL, SQLite  
@@ -17,7 +15,6 @@ I design and implement APIs from scratch: data modeling, business logic, endpoin
 ---
 
 ## 🚀 Selected Projects
-
 | Project | Description | Links |
 |---|---|---|
 | **BioLogix** | Biometric attendance & payroll-matching system. Live in production at Blue World Cosmetics. | [Demo](#) · [Repo](#) |
@@ -29,18 +26,15 @@ I design and implement APIs from scratch: data modeling, business logic, endpoin
 ---
 
 ## 📚 Currently Learning (2026)
-
 AWS · Docker & Kubernetes · Terraform · Ansible · GraphQL
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-88yc4y0c8-codewithgajis-projects.vercel.app/api?username=codewithgaji&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://streak-stats.demolab.com?user=codewithgaji&theme=tokyonight" height="170" />
+  <img src="./profile/streak.svg" height="170" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-88yc4y0c8-codewithgajis-projects.vercel.app/api/top-langs/?username=codewithgaji&layout=compact&theme=tokyonight" height="170" width="400" />
 </p>
@@ -48,7 +42,6 @@ AWS · Docker & Kubernetes · Terraform · Ansible · GraphQL
 ---
 
 ## 🤝 Let's Connect
-
 - 🌐 Portfolio: [codewithgaji](https://codewithgaji-74.vercel.app/)
 - 🐦 X: [@codewithgaji](https://x.com/codewithgaji)
 
